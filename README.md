@@ -1,1 +1,1 @@
-[nyc banner](http://imgur.com/a/uTlveY6)
+
