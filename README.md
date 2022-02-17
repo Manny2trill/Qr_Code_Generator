@@ -1,5 +1,4 @@
-[a link] (https://photos.app.goo.gl/X53mr8VaMWuxjCBr9)
-<!-- ![banner](./assets/banner.png) -->
+![banner](./assets/qrc.png)
 
 # Qr Codes for the community
 
@@ -11,7 +10,10 @@
 # Don't know what a QR code is?
 
 <strong>QR codes are a type of two-dimensional barcode that is used to store data in a compact form. They are used in a variety of applications, including payment systems, mobile phone applications, and in many other applications. They are also used in the field of cryptography.
-A QR code is a type of barcode.It can be scanned by smartphone, tablet, AR/VR devices. Once scanned, the QR code will lead you to a website or a mobile app. It is a way to link your website or mobile app to clients or members of your community. It is a way to get your community members to get to know your organization. We are here to help you understand what a QR code is and how your community members can use it to get to know your organization.
+A QR code is a type of barcode.It can be scanned by smartphone, tablet, AR/VR devices. Once scanned, the QR code will lead you to a website or a mobile app. It is a way to link your website or mobile app to clients or members of your community. It is a way to get your community members to get to know your organization. We are here to help you understand what a QR code is and how your community members can use it to get to know your organization, events and other things that you want to promote.
 </strong>
+
+
+
 
 

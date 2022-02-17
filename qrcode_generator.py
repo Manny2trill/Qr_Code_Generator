@@ -1,12 +1,12 @@
 import qrcode
 
 # Generate a QR code
-link = ""
-data = ""
+link = "Altiro.Shop"
+data = "Altiro.Shop"
 
 # encode the data
 img = qrcode.make(data)
 
 # print and savs the image
 print = (type(img))
-img.save("QrcodeGitHub1.jpg")
+img.save("Altiro.jpg")
