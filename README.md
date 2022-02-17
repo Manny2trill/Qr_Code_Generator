@@ -1,4 +1,4 @@
-![banner](./assets/qrc22.jpeg)
+<!-- ![banner](./assets/qrc22.jpeg) -->
 
 # Qr Codes for the community
 
